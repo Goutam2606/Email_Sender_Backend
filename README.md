@@ -8,7 +8,7 @@ Email Service: Integrated Nodemailer for sending emails.
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/email-sender.git
+git clone https://github.com/goutam2606/Email_Sender_Backend.git
 Navigate to the project directory:
 
 Start the development servers:
