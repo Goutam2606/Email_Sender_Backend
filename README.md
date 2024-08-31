@@ -1,10 +1,10 @@
 # Email Sender
 A MERN stack project for sending emails using React, Node.js, Express, and Nodemailer.
 
-Features
-Frontend: Built with React, utilizing Axios for HTTP requests.
-Backend: Powered by Node.js and Express for API management.
-Email Service: Integrated Nodemailer for sending emails.
+## Features
+### Frontend: Built with React, utilizing Axios for HTTP requests.
+### Backend: Powered by Node.js and Express for API management.
+### Email Service: Integrated Nodemailer for sending emails.
 Installation
 Clone the repository:
 
