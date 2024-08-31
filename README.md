@@ -1,4 +1,4 @@
-#Email Sender
+# Email Sender
 A MERN stack project for sending emails using React, Node.js, Express, and Nodemailer.
 
 Features
